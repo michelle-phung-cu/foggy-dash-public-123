@@ -1,0 +1,12 @@
+body{
+    background-color:blanchedalmond;
+    font-family: Verdana, sans-serif;
+}
+
+.dashboard-section{
+    padding-left: 2em;
+}
+
+.data-line{
+    padding-left: 4em;
+}
