@@ -10,3 +10,7 @@ body{
 .data-line{
     padding-left: 4em;
 }
+
+.keep-whitespace {
+    white-space: pre;
+}

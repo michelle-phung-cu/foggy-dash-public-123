@@ -9,5 +9,9 @@ page is served at localhost:8000
 
 ![windows screenshot](pictures/Screenshot%202026-03-05%20windows.png "how it looks on windows 11 edge")
 
+got data! march-13-26
+![screenshot] (pictures\Screenshot 2026-03-13 165926.png)
+
+
 hosted dashboard page:
 https://michelle-phung-cu.github.io/foggy-dash-public-123/
